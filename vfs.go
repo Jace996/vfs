@@ -2,7 +2,7 @@ package vfs
 
 import (
 	"errors"
-	"github.com/goxiaoy/vfs/pkg/trie"
+	"github.com/jace996/vfs/pkg/trie"
 	"io/fs"
 	"path"
 	"path/filepath"

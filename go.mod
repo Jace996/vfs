@@ -1,4 +1,4 @@
-module github.com/goxiaoy/vfs
+module github.com/jace996/vfs
 
 go 1.19
 
